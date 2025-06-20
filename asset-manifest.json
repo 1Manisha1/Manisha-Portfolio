@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Manisha-Portfolio/static/css/main.6d820995.css",
+    "main.js": "/Manisha-Portfolio/static/js/main.fc39db19.js",
+    "static/js/453.bb257cf5.chunk.js": "/Manisha-Portfolio/static/js/453.bb257cf5.chunk.js",
+    "static/media/chandigarh_university_logo.png": "/Manisha-Portfolio/static/media/chandigarh_university_logo.c5b4db283c0194677763.png",
+    "static/media/Manisha_Kumari_Pandey_Resume.pdf": "/Manisha-Portfolio/static/media/Manisha_Kumari_Pandey_Resume.c8c1eecd2039cb5e76ec.pdf",
+    "static/media/Manisha Kumari Pandey.jpeg": "/Manisha-Portfolio/static/media/Manisha Kumari Pandey.341d9300854680487d1b.jpeg",
+    "static/media/book.png": "/Manisha-Portfolio/static/media/book.0420ae430b803a32c888.png",
+    "index.html": "/Manisha-Portfolio/index.html",
+    "main.6d820995.css.map": "/Manisha-Portfolio/static/css/main.6d820995.css.map",
+    "main.fc39db19.js.map": "/Manisha-Portfolio/static/js/main.fc39db19.js.map",
+    "453.bb257cf5.chunk.js.map": "/Manisha-Portfolio/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d820995.css",
+    "static/js/main.fc39db19.js"
+  ]
+}
