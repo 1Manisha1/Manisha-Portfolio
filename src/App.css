@@ -1,38 +1,42 @@
+/* App.css */
+/* App.css */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #f5f7fb;
+  background-image: url('https://www.transparenttextures.com/patterns/cubes.png');
+  background-size: 400px;
+  background-attachment: fixed;
+  background-repeat: repeat;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Optional: Ensure App component also takes full height */
 .App {
-  text-align: center;
+  min-height: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.section-card {
+  background-color: #f9f9f9;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 20px;
+  max-width: 900px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.section-title {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #333;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.section-content {
+  font-size: 1rem;
+  color: #555;
 }

@@ -1,0 +1,67 @@
+.education-section {
+    padding: 4rem 2rem;
+    background-color: #f7f9fc;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    font-weight: 600;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 2rem;
+  }
+  
+  .education-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    flex-wrap: wrap;
+  }
+  
+  .edu-logo img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+  
+  .edu-details {
+    flex: 1;
+    min-width: 250px;
+  }
+  
+  .edu-degree {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.3rem;
+  }
+  
+  .edu-institute {
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+  }
+  
+  .edu-meta {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .edu-highlights {
+    list-style-type: disc;
+    margin-left: 1.2rem;
+    font-size: 0.95rem;
+    color: #444;
+  }
+  
+  .edu-book img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-left: auto;
+    align-self: center;
+  }
+  
