@@ -1,3 +1,30 @@
+
+# Manisha Portfolio
+
+This is a personal portfolio website built using **React**, styled with **Tailwind CSS**, and hosted on **GitHub Pages**.
+
+## 🚀 Live Site
+
+[https://1Manisha1.github.io/Manisha-Portfolio](https://1Manisha1.github.io/Manisha-Portfolio)
+
+## ✨ Features
+
+- Responsive UI
+- Projects with live demo & GitHub links
+- Resume download
+- Achievements & Education timeline
+- Contact section with social media
+
+## 📦 Tech Stack
+
+- React
+- Tailwind CSS
+- GitHub Pages
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
